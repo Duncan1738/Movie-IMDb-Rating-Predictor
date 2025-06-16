@@ -67,7 +67,7 @@ Install required packages:
 pip install pandas seaborn matplotlib scikit-learn
 Run all cells and customize the prediction inputs!
 
-📈 Future Ideas
+Future Ideas
 Add more features (platform, genre, runtime)
 
 Try non-linear models like XGBoost
