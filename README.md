@@ -55,7 +55,7 @@ Predicted IMDb rating for sample movie: 7.34
 
 ---
 
-## 🧪 How to Run
+##  How to Run
 
 1. Clone the repo:
    ```bash
