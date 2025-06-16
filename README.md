@@ -1,4 +1,4 @@
-# 🎬 Movie IMDb Rating Predictor
+# Movie IMDb Rating Predictor
 
 A simple machine learning project that predicts the **IMDb rating** of a movie based on its **release year** and **Rotten Tomatoes score**. Built using Python, pandas, scikit-learn, and visualized with seaborn and matplotlib.
 
