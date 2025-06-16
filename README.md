@@ -74,7 +74,6 @@ Try non-linear models like XGBoost
 
 Build a web app using Streamlit
 
-🙌 Author
-[Duncan Kibet]
+---
 MIT LICENCE
 
