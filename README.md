@@ -4,7 +4,7 @@ A simple machine learning project that predicts the **IMDb rating** of a movie b
 
 ---
 
-## 📦 Dataset
+##  Dataset
 
 - **Source**: [MoviesOnStreamingPlatforms_updated.csv](https://github.com/amankharwal/Website-data/blob/master/MoviesOnStreamingPlatforms_updated.csv)
 - **Rows**: 16,744
