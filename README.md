@@ -35,7 +35,7 @@ A simple machine learning project that predicts the **IMDb rating** of a movie b
 ---
 
 ## Example Output
-✅ Dataset loaded with shape: (16744, 17)
+Dataset loaded with shape: (16744, 17)
 
 📈 R² Score: 0.37 📉 RMSE: 0.71
 
