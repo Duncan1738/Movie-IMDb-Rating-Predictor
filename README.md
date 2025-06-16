@@ -44,7 +44,7 @@ Predicted IMDb rating for sample movie: 7.34
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - Python
 - Pandas
