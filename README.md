@@ -15,7 +15,7 @@ A simple machine learning project that predicts the **IMDb rating** of a movie b
 
 ---
 
-## 🔧 Project Steps
+## Project Steps
 
 1. **Data Loading & Cleaning**
    - Handle missing values
